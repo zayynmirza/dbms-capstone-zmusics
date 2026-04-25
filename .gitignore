@@ -1,0 +1,7 @@
+library/songs/*.wav
+library/covers/*
+!library/covers/.gitkeep
+!library/songs/.gitkeep
+node_modules/
+.DS_Store
+*.log
